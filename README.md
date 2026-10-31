@@ -2,7 +2,7 @@
 
 也可以叫我 **Alan**。目前就读于**华南农业大学**，将于 **2027 年进入复旦大学攻读硕士**，导师是**姜若曦教授**。
 
-目前在 **MUKA** 做科研实习，参与具身智能相关研究。
+目前在 **MUKA** 做科研实习，参与模型后训练与 UMI 数据处理相关工作。
 
 [个人网站](https://alanyu04.github.io/) · [谷歌学术](https://scholar.google.com/citations?user=tQETugYAAAAJ) · [ORCID](https://orcid.org/0009-0008-3403-0124)
 
